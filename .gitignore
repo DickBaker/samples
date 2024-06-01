@@ -214,3 +214,6 @@ machine-learning/tutorials/**/IrisClusteringModel.zip
 machine-learning/tutorials/**/MovieRecommenderModel.zip
 
 /azure/sdk-identity-resources-storage/Properties/launchSettings.json
+/csharp/tutorials/patterns/ExternalSystems/ExternalSystems.sln
+/csharp/tutorials/patterns/Toll-finished/Toll-finished.sln
+/csharp/tutorials/patterns/Toll-start/Toll-start.sln
